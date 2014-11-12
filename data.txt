@@ -1,0 +1,9 @@
+datafile,   medium,   NCproc
+dbn/0.txt,  db,         1
+dbn/1.txt,  db,         1
+dbc/0.txt,  db,         1
+dbn/1.txt,  db,         1
+mn/0.txt,   m,          1
+mn/1.txt,   m,          1
+mc/0.txt,   m,          1
+mc/1.txt,   m,          1
